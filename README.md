@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Ahmed Alsabri 👋
 
-<!--
-**Ahmed-2m/Ahmed-2m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer and Management Information Systems (MIS) graduate with a strong interest in software development, database systems, and modern technologies.
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- PHP
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- Flutter
+- SQL
+- SQL Server
+- MySQL
+- Oracle Database
+- REST APIs
+- Windows Server
+
+## 🚀 Current Focus
+
+- Building practical software projects
+- Improving problem-solving skills
+- Learning cloud technologies
+- Expanding software development knowledge
+
+## 📜 Certifications
+
+- Cisco – Introduction to Cybersecurity
+- Microsoft Learn – Cloud Concepts
+- Microsoft Learn – Azure Architecture and Services
+- Flutter Complete Course (51 Hours)
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/ahmed-saeed-mohsen-alsabri-5b38623a9
+- Email: 777366634xxahmedxx@gmail.com
