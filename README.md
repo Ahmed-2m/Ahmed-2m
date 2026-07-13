@@ -8,14 +8,13 @@ Software Developer and Management Information Systems (MIS) graduate with a stro
 - PHP
 - Python
 - JavaScript
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Flutter
 - SQL
 - SQL Server
 - MySQL
 - Oracle Database
-- REST APIs
 - Windows Server
 
 ## 🚀 Current Focus
