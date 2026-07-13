@@ -5,9 +5,8 @@ Software Developer and Management Information Systems (MIS) graduate with a stro
 ## 💻 Technical Skills
 
 - C#
-- PHP
-- Python
 - JavaScript
+- PHP
 - HTML
 - CSS
 - Flutter
